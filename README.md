@@ -3,7 +3,7 @@ Built a Insurance Management Platform with SpringBoot that handles with the diff
 
 -->**To execute a JAR file from GitHub, follow the steps below:**
 
-1. Download the JAR file from the GitHub repository to your local system.
+1. Download the JAR file from the GitHub repository to your local system.You can access this jar file from package out/artifacts from the master branch.
 
 2. Open the terminal/command prompt and navigate to the directory where the JAR file is saved.
 
